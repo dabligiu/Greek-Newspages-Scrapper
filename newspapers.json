@@ -1,0 +1,17 @@
+{
+  "in.gr": {
+    "link": "http://in.gr/",
+    "rss": "http://rss.in.gr/feed/news"
+  },
+  "nayteboriki": {
+    "link": "http://www.naftemporiki.gr/",
+    "rss": "http://www.naftemporiki.gr/rssFeed?mode=section&id=1&atype=story"
+  },
+  "kathimerini": {
+    "link": "http://www.kathimerini.gr/",
+    "rss": "http://www.kathimerini.gr/rss"
+  },
+  "huffpost": {
+    "link": "http://www.huffingtonpost.gr/oikonomia/"
+  }
+}
